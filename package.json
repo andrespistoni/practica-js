@@ -1,0 +1,22 @@
+{
+  "name": "practica-js",
+  "version": "1.0.0",
+  "description": "Practica de Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrespistoni/practica-js.git"
+  },
+  "author": "andrespistoni@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrespistoni/practica-js/issues"
+  },
+  "homepage": "https://github.com/andrespistoni/practica-js#readme",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
